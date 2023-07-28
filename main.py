@@ -1,5 +1,13 @@
-# https://vegibit.com/interacting-with-a-database-using-sqlalchemy-crud-operations/
-# https://www.youtube.com/watch?v=0RqfzBRDWtk
+'''
+Created on July 28, 2023
+
+@author: Surya Pugal
+
+source:
+    # https://vegibit.com/interacting-with-a-database-using-sqlalchemy-crud-operations/
+    # https://www.youtube.com/watch?v=0RqfzBRDWtk
+    
+'''
 
 
 from sqlalchemy import create_engine, Column, Integer, String, Sequence
